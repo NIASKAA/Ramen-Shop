@@ -28,3 +28,9 @@
 #aboutContainer{
     padding: 6px;
 }
+
+.disclaimer{
+    color: white;
+    font-weight: lighter;
+    float: left;
+}
