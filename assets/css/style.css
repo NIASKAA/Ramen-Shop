@@ -18,7 +18,7 @@
 }
 
 #aboutRamen {
-    width: 52%;
+    width: 40%;
     height: 40%;
     float: right;
     border-radius: 12px;
@@ -32,5 +32,4 @@
 .disclaimer{
     color: white;
     font-weight: lighter;
-    float: left;
 }
