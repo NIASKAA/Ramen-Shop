@@ -1,6 +1,5 @@
 # Ramen Shop
-Recreating my portfolio for the third time using new knowledge
-
+In an alternative universe let's say I'm not a developer. I would defintely be a ramen chef. Here is a simple html website on what a website based on a restaurant look like.
     
 ## Tech Usage
 
@@ -16,7 +15,7 @@ Add badges from somewhere like:
   
 ## Deployment
 
-Link to github: https://github.com/NIASKAA \
+Link to github: https://github.com/NIASKAA/Ramen-Shop \
 Link to Website: https://niaskaa.github.io/Ramen-Shop/
 
 
