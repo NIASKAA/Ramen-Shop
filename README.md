@@ -1,4 +1,7 @@
 # Ramen Shop
+
+
+## User Story
 In an alternative universe let's say I'm not a developer. I would defintely be a ramen chef. Here is a simple html website on what a website based on a restaurant look like.
     
 ## Tech Usage
