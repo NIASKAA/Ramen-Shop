@@ -18,7 +18,6 @@ Add badges from somewhere like:
   
 ## Deployment
 
-Link to github: https://github.com/NIASKAA/Ramen-Shop \
 Link to Website: https://niaskaa.github.io/Ramen-Shop/
 
 ## Installation
