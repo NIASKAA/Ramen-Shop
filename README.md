@@ -18,6 +18,9 @@ Add badges from somewhere like:
 Link to github: https://github.com/NIASKAA/Ramen-Shop \
 Link to Website: https://niaskaa.github.io/Ramen-Shop/
 
+## Installation
+
+Clone this repository to receive all of the files
 
 ## Authors
 
